@@ -16,7 +16,13 @@ Utilização de : Activyindicator, useState, UseEffect, RNPickerSelect(Picker Cu
 
 ## Demonstração
 
-https://github.com/Alef-Daniel/demos/blob/master/20230606_034349.mp4
+
+
+
+https://github.com/Alef-Daniel/appConversorMoedasNew/assets/83924026/a6e261ff-707b-4fe2-bb53-d3c7af2013ba
+
+
+
 ## Funcionalidades
 
 Consumir a api https://economia.awesomeapi.com.br/json/.
